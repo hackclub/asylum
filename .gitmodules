@@ -1,0 +1,3 @@
+[submodule "designs/weather_stations/aeroportal"]
+	path = designs/weather_stations/aeroportal
+	url = https://github.com/TheScientist101/aeroportal.git
