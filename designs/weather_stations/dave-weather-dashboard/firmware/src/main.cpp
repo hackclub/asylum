@@ -1,5 +1,4 @@
 #include <Arduino.h>
-#include <Bounce2.h>
 #include <SD.h>
 #include <Adafruit_ST7735.h>
 #include <Adafruit_GFX.h>
@@ -45,15 +44,12 @@ void WiFiDisconnected(WiFiEvent_t event, WiFiEventInfo_t info) {
 }
 
 Adafruit_ST7735 tft = Adafruit_ST7735(TFT_CS, TFT_DC, TFT_EN, MOSI, SCK, TFT_EN);
-Bounce bounce = Bounce();
 unsigned lastRefreshTime = 0;
 
 void setup() {
     Serial.begin(115200);
 
-    // Bounce2
-    bounce.attach(REFRESH_BUTTON, INPUT);
-    bounce.interval(BOUNCE_INTERVAL);
+    pinMode(REFRESH_BUTTON, INPUT_PULLUP);
 
     // SD
     /*if (!SD.begin(SD_CS))

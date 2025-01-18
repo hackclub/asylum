@@ -522,6 +522,10 @@
       {
         "netclass": "power",
         "pattern": "3V+"
+      },
+      {
+        "netclass": "power",
+        "pattern": "+BATT"
       }
     ]
   },
@@ -533,7 +537,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "weather-dashboard.step",
+      "step": "../cad/libs/weather-dashboard.step",
       "svg": "",
       "vrml": ""
     },
