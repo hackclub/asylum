@@ -487,10 +487,10 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "C:/Users/aniru/Downloads/weather/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "weather.stl",
+      "step": "weather.glb",
       "svg": "",
       "vrml": ""
     },
