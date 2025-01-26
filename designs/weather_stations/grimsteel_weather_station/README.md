@@ -22,7 +22,7 @@ Schematic            |  PCB
 
 ## CAD Model:
 
-The PCB is fastened using 4 M3 Heatset inserts and 4 M3 screws.
+The PCB is fastened using 3 M3 Heatset inserts and 3 M3 screws.
 The case itself snaps together.
 
 ![alt text](assets/case-render.png)
@@ -32,7 +32,6 @@ The case itself snaps together.
 The firmware is written using ESP-IDF. It gets all data from Home Assistant
 
 [x] I remembered to exclude any personal information, including API Keys, WiFi passwords, etc
-
 
 ## BOM
 All prices must be in USD.
