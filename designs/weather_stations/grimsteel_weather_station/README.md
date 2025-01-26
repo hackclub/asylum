@@ -62,4 +62,4 @@ All prices must be in USD.
 - 1x 1x3 female header (DHT11)
 - 2x 2x8 male header (WeMos)
 - 1x buzzer
-
+- 1x Li-ion battery
