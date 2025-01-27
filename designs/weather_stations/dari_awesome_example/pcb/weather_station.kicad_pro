@@ -490,7 +490,7 @@
       "plot": "gerbers/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "../../../../../../../Downloads/weather_station.step",
       "svg": "",
       "vrml": ""
     },

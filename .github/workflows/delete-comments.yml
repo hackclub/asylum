@@ -1,0 +1,24 @@
+name: Delete PR Comments
+on:
+  workflow_dispatch:
+
+jobs:
+  delete-comments:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Delete comments
+        run: |
+          PRS=$(gh pr list --state open --json number -q '.[].number')
+          for PR in $PRS; do
+            # Get all comments on the PR
+            COMMENTS=$(gh api /repos/${{ github.repository }}/issues/$PR/comments \
+              --jq '.[] | select(.body | contains("Can't wait to you build it")) | .id')
+            
+            # Delete each matching comment
+            for COMMENT_ID in $COMMENTS; do
+              gh api --method DELETE /repos/${{ github.repository }}/issues/comments/$COMMENT_ID
+              echo "Deleted comment $COMMENT_ID from PR #$PR"
+            done
+          done
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
