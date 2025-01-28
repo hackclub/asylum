@@ -35,6 +35,12 @@ Firmware is written in aurdino, it grabs data from a API. Code for turining it o
 
 [ x ] I remembered to exclude any personal information, including API Keys, WiFi passwords, etc
 
+#BOM
+**Provided by dari // alex**:
+- 1x WeMos S2 Mini WITHOUT FEMALE HEADERS
+- 1x ST7735 1.8" LCD display WITHOUT FEMALE HEADERS. Male headers soldered!
+
+I will buy 4 WS2812Bs, which will cost me $0.8 in total.
 I will be sourcing the following parts with my grant:
 - 1x PCB from JLCPCB
     - $2 for 5x + $1.50 shipping
