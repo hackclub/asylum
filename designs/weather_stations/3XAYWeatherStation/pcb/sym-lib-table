@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "seeedmmWave")(type "KiCad")(uri "${KIPRJMOD}/Footprints and Symbols/seeedmmWave.kicad_sym")(options "")(descr ""))
+)
