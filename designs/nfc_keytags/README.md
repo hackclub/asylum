@@ -1,8 +1,16 @@
-Codelife's NFC submissions:
+# NFC Keytags!!
 
-Create an NCF keychain with my name on it! For asylum YSWS.
-It needs black and white filament.
+This is the SECOND asylum YSWS!
 
-<img width="1085" alt="Screenshot 2025-01-27 at 6 27 01 PM" src="https://github.com/user-attachments/assets/5d9e1e2a-1a8c-4dbb-9927-ed1cf3ac1ca6" />
-<img width="1053" alt="Screenshot 2025-01-27 at 6 27 37 PM" src="https://github.com/user-attachments/assets/00fef6ec-033e-44ae-a55e-46de17bef6cb" />
-<img width="553" alt="Screenshot 2025-01-27 at 6 28 27 PM" src="https://github.com/user-attachments/assets/65af484b-5285-4b90-8403-0ec251051f73" />
+Based on [this](https://github.com/chriswblake/lanyard-tags) guide by Chris Blake.
+
+NFC sticker dimensions: Diameter of 1 inch / 25.4mm, height of 0.4mm
+
+Must be one print. The cavity should be embedded in the 3D model. I'll pause the print at 0.8mm tall (4 layers) to insert a sticker, so please make sure that your sticker cavity starts at that!
+
+See reference:
+![alt text](image.png)
+
+Make sure all the distances are multiples of 0.2mm so that it's cleanly 3D printable! If there's any confusion, make sure to check out the example model in the same folder (hc_keychain.step)
+
+Due Jan 12th (subject to change). Have fun!
