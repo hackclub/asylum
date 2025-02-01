@@ -6,8 +6,9 @@ This is the example submission for tag! It's a simple one with the Hack Club log
 
 I remembered to make the *start* of the cavity for the NFC tag begin 0.8mm from the build plate
 
-@Cyao
-id U07EQJY9YDD
+`@Cyao`
+
+Slack id `U07EQJY9YDD`
 
 ![](https://private-user-images.githubusercontent.com/88395302/408763971-0891572f-5cf3-4794-b55d-d1208d8dd74a.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mzg0MTMyMDAsIm5iZiI6MTczODQxMjkwMCwicGF0aCI6Ii84ODM5NTMwMi80MDg3NjM5NzEtMDg5MTU3MmYtNWNmMy00Nzk0LWI1NWQtZDEyMDhkOGRkNzRhLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAyMDElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMjAxVDEyMjgyMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWU1ZTU1N2Q5NDBiMDVlOTk3Y2MxZGZlMzIxZTA2ZGEwYzIzNmY3NWNmZGM3Y2I2OWEyMWM0ZjA4M2QwYTk2ZDgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.IVrXPoz-jVvP3CfwE7gABVKnTp6mVL0ZhPZO1q-jZxs)
 
