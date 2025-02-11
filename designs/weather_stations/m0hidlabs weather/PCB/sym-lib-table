@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "PhilsLibrary")(type "KiCad")(uri "${KIPRJMOD}/PhilsLibraries/PhilsLibrary.kicad_sym")(options "")(descr ""))
+  (lib (name "asylum")(type "KiCad")(uri "${KIPRJMOD}/asylum.kicad_sym")(options "")(descr ""))
+  (lib (name "asylum-weather")(type "KiCad")(uri "${KIPRJMOD}/asylum-new/asylum-weather.kicad_sym")(options "")(descr ""))
+)

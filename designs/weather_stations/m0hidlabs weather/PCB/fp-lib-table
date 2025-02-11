@@ -1,0 +1,8 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "PhilsFootprintLibrary")(type "KiCad")(uri "${KIPRJMOD}/PhilsLibraries/PhilsFootprintLibrary.pretty")(options "")(descr ""))
+  (lib (name "Library")(type "KiCad")(uri "${KIPRJMOD}/Library.pretty")(options "")(descr ""))
+  (lib (name "asylum-weather")(type "KiCad")(uri "${KIPRJMOD}/LCD/asylum-weather.pretty")(options "")(descr ""))
+  (lib (name "asylum")(type "KiCad")(uri "${KIPRJMOD}/asylum.pretty")(options "")(descr ""))
+  (lib (name "asylum-grimsteel")(type "KiCad")(uri "${KIPRJMOD}/asylum-new/asylum-weather.pretty/asylum-weather.pretty")(options "")(descr ""))
+)
