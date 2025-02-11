@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "asylum")(type "KiCad")(uri "${KIPRJMOD}/libs/asylum.kicad_sym")(options "")(descr ""))
+)
