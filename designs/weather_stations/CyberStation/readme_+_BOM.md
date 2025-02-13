@@ -4,6 +4,8 @@ on a more serious note, I did finish my weatherstation.
 
 In the case folder, the buttons file needs to be printed 3 times. The stand needs to be printed twice (2 times). 
 
+This weatherstation is programmed (hopefully it works first try, history says it won't though) to show the current weather in your area using an API. It directly connects to your wifi network, opens the API link, then reads the temperature (in American unites {Eagle shriek Here}). It should update the weather every 10 minutes. If it fails to fetch weather data, it will show an error message that looks like a cloud with the words Go Touch Grass underneith. In a future software version, you will be able to read the current temp and humidity in your room using the Adafruit Am2320 Temperature and humidity sensor. I have thoughts of adding the possibility of listening to Spotify through it to a bluetooth listening device. Not sure if I will get to that point though. Finally, the three buttons from left to right will be able to connect to force a reconnection to the wifi network, force a reload of weather data, and switch between indoor weather and outdoor weather once I get them all configured.
+
 
 
 BOM
@@ -24,3 +26,4 @@ BOM
 ![Screenshot 2024-12-20 161250](https://github.com/user-attachments/assets/f739387e-a804-429b-83a1-18d89d161c9b)
 ![Screenshot 2024-12-20 161210](https://github.com/user-attachments/assets/743d1cf7-3984-45be-8957-a01d4fac4dc6)
 ![Screenshot 2024-12-20 161321](https://github.com/user-attachments/assets/56704104-19eb-484b-b6d2-00cb3bf123eb)
+![Screenshot 2025-02-13 020036](https://github.com/user-attachments/assets/84a5382e-9f04-4208-9c32-01c59bac09d9)
