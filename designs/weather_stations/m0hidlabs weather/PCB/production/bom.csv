@@ -1,0 +1,11 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+BT1,PinHeader_1x02_P2.54mm_Vertical_swapped,1,Battery_Cell,
+C1,0805,1,100nF,
+"R1, R3",R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,2,10k,
+R2,0805,1,10,
+SW1,SW_PUSH_6mm,1,SW_Push,
+SW2,SW_Slide-03_Wuerth-WS-SLTV_10x2.5x6.4_P2.54mm,1,SW_SPDT,
+U1,TP4056,1,~,
+U2,Aosong_DHT11_5.5x12.0_P2.54mm,1,DHT11,
+U3,TFT_ST7735_SD,1,TFT_ST7735_SD,
+U5,WEMOS_S2_Mini,1,WEMOS_S2_Mini,
