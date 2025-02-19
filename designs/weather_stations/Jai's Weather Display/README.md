@@ -11,6 +11,8 @@ This is the Case for it:
 
 
 There are four pillars designed to hold the PCB, allowing it to slide in and out of the enclosure easily.
+
+
 <img width="899" alt="Screenshot 2025-02-19 at 2 31 27 PM" src="https://github.com/user-attachments/assets/3c4947ff-bde6-49ce-885f-627d74da129c" />
 
 
