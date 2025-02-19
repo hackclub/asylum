@@ -1,0 +1,7 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"J1, J2",HDR-SMD_16P-P2.54-V-F-R2-C8-LS7.1,2,Conn_02x08_Counter_Clockwise,
+R1,1206,1,10,
+R2,0603,1,75,
+U1,WEMOS_C3_1,1,WEMOS_C3_Mini,
+U2,TFT_ST7735_SD,1,TFT_ST7735_SD,
+"U3, U4",SOP-4_L4.4-W4.0-P2.54-LS7.0-TL,2,ELM3052(TA),
