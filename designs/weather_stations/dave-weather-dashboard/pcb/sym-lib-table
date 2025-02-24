@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "asylum-weather")(type "KiCad")(uri "${KIPRJMOD}/asylum-weather.kicad_sym")(options "")(descr ""))
+  (lib (name "sl2301s")(type "KiCad")(uri "${KIPRJMOD}/sl2301s.kicad_sym")(options "")(descr ""))
+)
