@@ -13,5 +13,14 @@ here's the [github repository for project](https://github.com/arsoninstigator/ra
 ![image](https://github.com/user-attachments/assets/2ada5626-b8ca-4bb6-b19e-98eaf304a399)
 
 ## bill of materials
+provided by dari // alex:
 
+1x wemos s2 mini 
+1x st7735 1.8" lcd display 
+1x tp4056 li-on battery
+1x 1n5817 schottky diode
+4x 6x6mm switches
+4x axial through hole resistors
+1x spdt smd switch
+1x 3d printed case (1x top case + 1x bottom case)
 
