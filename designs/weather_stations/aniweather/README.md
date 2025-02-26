@@ -1,6 +1,6 @@
 <h1 align="center">Aniweather - Your personal anime weather station!</h1>
 
-This is a 3D weather station! You can choose between displaying daily waifu pics and the current weather. **No external libraries used!**
+This is a 3D weather station! You can choose between displaying daily waifu pics and the current weather.
 
 Made for #asylum. The main API code is at https://github.com/cheyao/short with nest :D
 
@@ -14,20 +14,31 @@ To change the settings, edit `firmware/settings.h`! The weather info is mostly p
 [ x ] I ran DRC in KiCad and have made sure there are 0 errors!
 
 ### BOM 
-Provided by dari // alex:
+
+Provided by dari // alexren:
 - 1x WeMos S2 Mini (as a cheaper replacement for the S2) WITHOUT FEMALE HEADERS
 - 1x ST7735 1.8" LCD display WITHOUT FEMALE HEADERS. Male headers soldered!
-
-Purchasing from HQ:
-- 2x 1N4148 at ???$
 
 I will be sourcing the following parts with my grant:
 - 1x PCB from JLCPCB
     - $2 for 5x + $1.50 shipping
-- 2x 2-1825910-7             0,17 $ - 0,51 $
-- 1x NR3015T2R2M             0,31 $ - 0,31 $ 
-- 4x FG16X7R1E106KRT06       0,84 $ - 3,36 $
-- 1x TPS63001DRCR            2,16 $ - 2,16 $
-- 1x 3D printed case         self print
+- LCSC:
+    - 3x Ceramic THT 1uF capacitor
+    - 6x Ceramic THT 0.1uF capacitor
+    - 3x Ceramic SMD 0805 10uF capacitor
+    - 1x 10ohm THT Resistor
+    - 1x 100ohm THT Resistor
+    - 1x 470ohm THT Resistor
+    - 6x 10kohm THT Resistor
+    - 1x TPS2116DRLR
+    - 1x TPS63001DRCR
 
-Total: 8.34 $ + Lipo from aliexpress
+HOME:
+- 1x TP4056
+- 1x LIPO
+- 1x 3D printed case
+
+TOTAL: 15.99+3.5=19.45$
+
+Green LEDs will be brought with the keyboard (min 100 :heavysob:)
+

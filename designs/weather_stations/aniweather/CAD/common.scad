@@ -2,7 +2,7 @@ PCB_WIDTH = 55 + 4;
 PCB_HEIGHT = 75 + 4;
 PCB_DEPTH = 16 + 5;
 
-WALL_THICKNESS = 5;
+WALL_THICKNESS = 3;
 
 CASE_WIDTH = PCB_WIDTH + WALL_THICKNESS * 2;
 CASE_HEIGHT = PCB_HEIGHT + WALL_THICKNESS * 2;
@@ -28,7 +28,7 @@ module corner() {
 		cube([WALL_THICKNESS + 0.002, WALL_THICKNESS + 0.002, 100]);
 
 		translate([0, 0, -500])
-		cylinder(r=WALL_THICKNESS, h=1000);
+		cylinder(r=WALL_THICKNESS, h=1000, $fn=20);
 	}
 }
 

@@ -27,7 +27,7 @@ difference() {
 
 	cube([LCD_WIDTH, LCD_HEIGHT, 500], true);
 
-	translate([19.3 + SWITCH_WIDTH / 2, 0.407, 0])
+	translate([PCB_WIDTH/2-SWITCH_WIDTH/2-2, -PCB_HEIGHT/2+SWITCH_HEIGHT/2+33, 0])
 	cube([SWITCH_WIDTH, SWITCH_HEIGHT, 500], true);
 
 	corners();
