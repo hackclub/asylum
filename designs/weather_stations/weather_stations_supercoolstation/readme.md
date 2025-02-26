@@ -13,6 +13,11 @@
 - **C3 Mini**
 - **TFT ST7735**
 - **LiPo Battery and TP4056 Board**
+- **1x 10 ohm resistor**
+- **2x switch push buttons**
+- **2x 10k ohm resistor**
+- **1x Battery toggle switch**
+- **1x 1n5817 schottky diode**
 
 ## How It Works:
 1. Connects to a Wi-Fi network to fetch data from Open-Meteo API.
