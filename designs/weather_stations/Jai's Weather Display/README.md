@@ -20,7 +20,6 @@ This the Wokwi Script:  https://wokwi.com/projects/417352360582221825
 
 
 
--# Weather Station with Emergency Alert System
 
 ## Overview
 
@@ -40,6 +39,7 @@ This project is a weather station built using the Wemos C3 Mini, a 1.8-inch TFT 
 | Connecting Wires / Headers                                                                                                                                               | As needed     | Jumper wires or soldered connections                      | -                |
 
 
+### its not been coded but will do it after my exams 
 
 
 ## Button Functions
