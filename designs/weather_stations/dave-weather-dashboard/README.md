@@ -15,7 +15,7 @@ The firmware is located in the [firmware folder](./firmware) made using [Platfor
 
 The design was made using [Autodesk Fusion](https://www.autodesk.com/education/edu-software/fusion) is located in the [cad folder](./cad).
 
-![Casing Design](images/Fusion360_3BlMSEFgMA.png)
+![Casing Design](images/Fusion360_STO4dfZro6.png)
 
 ## PCB
 
@@ -23,7 +23,7 @@ The PCB was made using [KiCad](https://www.kicad.org/) 8.99 located in the [pcb 
 
 Schematic | PCB
 :-:|:-:
-![Schematic](images/kicad_pjbSOcjapm.png) | ![PCB](images/kicad_YVKBPl4PBj.png)
+![Schematic](images/kicad_6IDceVGe0q.png) | ![PCB](images/kicad_U5hjf2B6Dj.png)
 
 ## BOM
 
