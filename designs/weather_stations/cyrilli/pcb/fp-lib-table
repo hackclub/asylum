@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "weather")(type "KiCad")(uri "${KIPRJMOD}/asylum-weather.pretty")(options "")(descr ""))
+  (lib (name "asylum-weather")(type "KiCad")(uri "${KIPRJMOD}/lib/asylum-weather.pretty")(options "")(descr ""))
+)
