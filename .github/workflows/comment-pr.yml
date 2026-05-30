@@ -1,0 +1,18 @@
+name: PR Auto Comment
+on:
+  workflow_dispatch:  # Allows you to trigger the workflow manually
+jobs:
+  comment:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+      - name: Comment on all open PRs
+        run: |
+          MESSAGE=$(cat .github/workflows/comment-message.md)
+          PRS=$(gh pr list --state open --json number -q '.[].number')
+          for PR in $PRS; do
+            echo "$MESSAGE" | gh pr comment $PR --body-file -
+          done
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

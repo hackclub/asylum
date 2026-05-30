@@ -1,0 +1,2 @@
+default_fqbn: esp32:esp32:nodemcu-32s
+default_port: /dev/ttyUSB0

@@ -1,0 +1,7 @@
+.git
+.vscode
+.pio
+pcb/weather-dashboard-backups
+pcb/#auto_saved_files#
+pcb/~weather-dashboard.kicad_sch.lck
+pcb/gerber_to_order/*
